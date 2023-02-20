@@ -1,0 +1,4 @@
+.characterGallery{
+    display: flex;
+    flex-wrap: wrap;
+}
